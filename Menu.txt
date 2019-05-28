@@ -1,0 +1,12 @@
+Fried_Potato	20	11
+Caesar_Salad	30	6
+Croissant	25	2
+T-Bone_Steak	90	2
+Indian_Curry	55	8
+Beef_Sirloin	80	0
+Pudding_Choco	10	0
+Ice_Cream_Cake	20	0
+Red_Velvet	35	10
+Mango_Float	15	0
+Berry_Cocktail	25	447
+White_Wine	45	0

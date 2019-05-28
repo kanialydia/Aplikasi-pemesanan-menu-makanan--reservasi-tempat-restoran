@@ -1,0 +1,5 @@
+Chicken_Fajita	65.0	27
+Pork_Chop	75.0	23
+T-Bone_Steak	90.0	26
+Indian_Curry	55.0	27
+Beef_Sirloin	80.0	19

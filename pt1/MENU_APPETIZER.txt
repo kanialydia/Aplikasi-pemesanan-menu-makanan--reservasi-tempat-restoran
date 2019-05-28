@@ -1,0 +1,5 @@
+Fried_Potato	20.0	56
+Caesar_Salad	30.0	84
+Croissant	25.0	52
+Egg_Roll	25.0	164
+Spring_Rolls	85.0	27

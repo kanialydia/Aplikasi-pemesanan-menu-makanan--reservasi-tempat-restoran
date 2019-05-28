@@ -1,0 +1,5 @@
+Mango_Float	15.0	18
+Berry_Cocktail	25.0	23
+Champagne	35.0	8
+White_Wine	45.0	18
+Mineral_Water	7.0	31
